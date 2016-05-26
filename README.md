@@ -1,4 +1,5 @@
 # github-test - CHANGED!
+CONFLICT BRANCH IS THE BEST!
 Adding very long fearues here
 -- CHANGED 2
 Feature 1
